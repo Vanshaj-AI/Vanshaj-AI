@@ -1,7 +1,7 @@
 <h1>Hi, I'm Vanshaj! <br/><a href="https://www.linkedin.com/in/vanshaj-jain-data-scientist">Data Science Professional</a> <a href="https://github.com/Vanshaj-AI">and a Programmer</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
-Hello! Welcome to my github profile, as this is a newly created a profile, there's a lot of work in progress, please tune in soon again! In the meantime please feel free to visit my LinkedIn profile for an overview. Thank you for your patience and time!
+Hello! Welcome to my github profile, as this is a newly created profile, there's a lot of work in progress, please tune in soon again! In the meantime please feel free to visit my LinkedIn profile for an overview. Thank you for your patience and time!
 
 <h2> 📜 Certifications:</h2>
 <br/><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZUSR5397Q76T">IBM Data Science Professional</a>
