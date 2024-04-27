@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vanshaj! <br/><a href="https://www.linkedin.com/in/vanshaj-jain-data-scientist">Data Science </a> <a href="https://github.com/Vanshaj-AI">and a <span style="color:blue;">Data Engineer</span> professional.</a> Greetings, and welcome to my corner of the data universe!
+<h1>Hi, I'm Vanshaj! A <br/><a href="https://www.linkedin.com/in/vanshaj-jain-data-scientist">Data Science </a> <a href="https://github.com/Vanshaj-AI">and a <span style="color:blue;">Data Engineer</span> professional.</a> Greetings, and welcome to my corner of the data universe!
 
 <!DOCTYPE html>
 <html lang="en">
