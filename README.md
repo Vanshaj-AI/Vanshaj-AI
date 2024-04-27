@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vanshaj! <br/><a href="https://www.linkedin.com/in/vanshaj-jain-data-scientist">Data Science Professional</a> <a href="https://github.com/Vanshaj-AI">and a Programmer</a>
+<h1>Hi, I'm Vanshaj! <br/><a href="https://www.linkedin.com/in/vanshaj-jain-data-scientist">Data Science Professional</a> <a href="https://github.com/Vanshaj-AI">and a Data Engineer professional. Greetings, and welcome to my corner of the data universe!</a>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -9,7 +9,7 @@
 </head>
 <body>
   <h2>About Me</h2>
-  <p>Greetings, and welcome to my corner of the data universe! I'm [Your Name], a seasoned Data Scientist with a robust background in Data Engineering. With a passion for extracting insights from complex data sets, I specialize in crafting end-to-end data solutions that drive informed decision-making and fuel business growth.</p>
+  <p> I'm Vanshaj Jain, a seasoned Data Scientist with a robust background in Data Engineering. With a passion for extracting insights from complex data sets, I specialize in crafting end-to-end data solutions that drive informed decision-making and fuel business growth.</p>
   <h2>What to Expect</h2>
   <p>Here, you'll find a collection of my projects and contributions that showcase my expertise in data science and data engineering. From developing cutting-edge machine learning models to architecting scalable data pipelines, each project reflects my commitment to excellence and innovation in the field of data.</p>
   <h2>Let's Connect</h2>
