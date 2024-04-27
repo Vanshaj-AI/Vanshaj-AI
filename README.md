@@ -15,11 +15,13 @@
   <h2>Let's Connect</h2>
   <p>Whether you're a fellow data enthusiast or a potential collaborator, I invite you to explore my work and reach out to discuss opportunities. Let's connect and explore how we can leverage data to solve the most challenging problems and drive impactful change.</p>
   <h2>Get in Touch</h2>
-  <p>Feel free to connect with me on <a href="Your LinkedIn Profile Link">LinkedIn</a> for more insights into my work and interests. I'm always open to new ideas and collaborations, so don't hesitate to reach out!</p>
+  <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/vanshaj-jain-data-scientist/">LinkedIn</a> for more insights into my work and interests. I'm always open to new ideas and collaborations, so don't hesitate to reach out!</p>
   <p>Happy exploring, and I look forward to connecting with you soon!</p>
 </body>
 </html>
 
+
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Vanshaj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -30,7 +32,7 @@
 [youtube]: https://www.youtube.com/@DataWhispererAI
 [linkedin]: https://linkedin.com/in/vanshaj-jain-data-scientist
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
