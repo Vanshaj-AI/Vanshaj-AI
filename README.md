@@ -6,10 +6,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to My GitHub Profile!</title>
 </head>
 <body>
-  <h1>Welcome to My GitHub Profile!</h1>
   <h2>About Me</h2>
   <p>Greetings, and welcome to my corner of the data universe! I'm [Your Name], a seasoned Data Scientist with a robust background in Data Engineering. With a passion for extracting insights from complex data sets, I specialize in crafting end-to-end data solutions that drive informed decision-making and fuel business growth.</p>
   <h2>What to Expect</h2>
