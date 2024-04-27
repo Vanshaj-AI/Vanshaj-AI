@@ -1,11 +1,26 @@
 <h1>Hi, I'm Vanshaj! <br/><a href="https://www.linkedin.com/in/vanshaj-jain-data-scientist">Data Science Professional</a> <a href="https://github.com/Vanshaj-AI">and a Programmer</a>
 
-<h2>👨‍💻 Data Science Projects:</h2>
-Hello! Welcome to my github profile, as this is a newly created profile, there's a lot of work in progress, please tune in soon again! In the meantime please feel free to visit my LinkedIn profile for an overview. Thank you for your patience and time!
-
-<h2> 📜 Certifications:</h2>
-<br/><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZUSR5397Q76T">IBM Data Science Professional</a>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to My GitHub Profile!</title>
+</head>
+<body>
+  <h1>Welcome to My GitHub Profile!</h1>
+  <h2>About Me</h2>
+  <p>Greetings, and welcome to my corner of the data universe! I'm [Your Name], a seasoned Data Scientist with a robust background in Data Engineering. With a passion for extracting insights from complex data sets, I specialize in crafting end-to-end data solutions that drive informed decision-making and fuel business growth.</p>
+  <h2>What to Expect</h2>
+  <p>Here, you'll find a collection of my projects and contributions that showcase my expertise in data science and data engineering. From developing cutting-edge machine learning models to architecting scalable data pipelines, each project reflects my commitment to excellence and innovation in the field of data.</p>
+  <h2>Let's Connect</h2>
+  <p>Whether you're a fellow data enthusiast or a potential collaborator, I invite you to explore my work and reach out to discuss opportunities. Let's connect and explore how we can leverage data to solve the most challenging problems and drive impactful change.</p>
+  <h2>Get in Touch</h2>
+  <p>Feel free to connect with me on <a href="Your LinkedIn Profile Link">LinkedIn</a> for more insights into my work and interests. I'm always open to new ideas and collaborations, so don't hesitate to reach out!</p>
+  <p>Happy exploring, and I look forward to connecting with you soon!</p>
+</body>
+</html>
 
 <h2> 🤳 Connect with me:</h2>
 
